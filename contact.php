@@ -4,15 +4,18 @@
     <meta charset="utf-8">
     <title>contact</title>
 
+    <?php require_once("headutils.php");?>
+      </head>
 
-      <?php require_once("lib/headutils.php");?>
-      
 
     <link rel="stylesheet" href="lib/css/contact.css">
 
-  </head>
   <body>
-    <?php require_once("lib/partials/navBar.php");?>
-    This is a contact page
+    <?php require_once("navbar.php");?>
+    <div class="jumbotron">
+      <h1 id="headText">Contact Page</h1>
+        <p> Welcome to the Contact Page</p>
+    </div>
+
   </body>
 </html>
