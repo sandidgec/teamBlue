@@ -8,7 +8,11 @@
     <?php require_once("navbar.php");?>
     <link rel="stylesheet" href="lib/css/index.css">
  </head>
+
  <body>
-   <h1>Welcome teamBlue</h1>
+    <div class="jumbotron">
+      <h1>Welcome Team Blue</h1>
+    </div>
+
  </body>
 </html>
