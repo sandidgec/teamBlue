@@ -3,10 +3,6 @@
 <!-- Custom CSS -->
 
 <link rel="stylesheet" href="lib/css/bootstrap.css">
-<link rel="stylesheet" href="lib/css/about.css">
-<link rel="stylesheet" href="lib/css/index.css">
-<link rel="stylesheet" href="lib/css/contact.css">
-
 
 
 <!-- Font Awesome -->
